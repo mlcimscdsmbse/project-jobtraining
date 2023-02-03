@@ -28,6 +28,7 @@ provided through Google Classroom.
 Once you have cloned this GitHub repo, then you can work on it in
 your local disk and _push_ your changes whenever you like, but make
 sure that you have pushed the last version of your assignment before
+the deadline; consult the Google Classroom if you are unsure about
 the deadline. There is no _submit_ button or any other specific
 submission procedure or action than just pushing your changes to your
 GitHub assignment repo. When correcting the assignment, the version
